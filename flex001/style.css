@@ -1,0 +1,13 @@
+
+div.conteiner{
+            background-color: aquamarine;
+            
+            display: flex;
+        }
+        
+div.item{
+            background-color: rgb(163, 52, 52);
+            border: 1px solid black;
+            text-align: center;
+            flex: auto;
+        }

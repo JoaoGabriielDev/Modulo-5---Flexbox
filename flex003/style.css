@@ -1,0 +1,16 @@
+
+div.conteiner{
+            background-color: aquamarine;
+            
+            display: flex;
+            flex-flow: row nowrap;
+            
+        }
+        
+div.item{
+            background-color: rgb(163, 52, 52);
+            border: 1px solid black;
+            text-align: center;
+            flex: auto;
+            
+        }
